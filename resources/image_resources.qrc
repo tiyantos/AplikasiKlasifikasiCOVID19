@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="image">
+    <file>english.png</file>
+    <file>indonesian.png</file>
+    <file>preview.png</file>
+    <file>logo.png</file>
+    <file>placeholder.png</file>
+  </qresource>
+  <qresource prefix="petunjuk">
+    <file>petunjuk1.png</file>
+    <file>petunjuk2.png</file>
+    <file>petunjuk3.png</file>
+    <file>petunjuk4.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="ui">
+        <file alias="klasifikasi.ui">ui/klasifikasi.ui</file>
+        <file alias="petunjuk.ui">ui/petunjuk.ui</file>
+    </qresource>
+    <qresource prefix="image">
+        <file alias="logo.png">resources/logo.png</file>
+        <file alias="preview.png">resources/preview.png</file>
+        <file alias="english.png">resources/english.png</file>
+        <file alias="indonesian.png">resources/indonesian.png</file>
+    </qresource>
+    <qresource prefix="petunjuk">
+        <file alias="petunjuk1.png">resources/petunjuk1.png</file>
+        <file alias="petunjuk2.png">resources/petunjuk2.png</file>
+        <file alias="petunjuk3.png">resources/petunjuk3.png</file>
+        <file alias="petunjuk4.png">resources/petunjuk4.png</file>
+    </qresource>
+</RCC>
